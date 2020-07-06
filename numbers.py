@@ -14,14 +14,14 @@ print(float_division)
 
 '''
 integer division
-the result is just number and rounded
+the result is integer and rounded
 '''
 integer_division = 8 // 3
 print(integer_division)
 
 '''
 modulus
-the result is just remainder
+the result is remainder number
 '''
 modulus = 13 % 5
 print(modulus)
