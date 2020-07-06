@@ -1,2 +1,3 @@
 # basic-python
-course to basic python
+basic python courses
+- Numbers
