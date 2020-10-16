@@ -8,6 +8,7 @@ basic python courses
 - [Tuples](https://github.com/aziz-alqudsy/basic-python/blob/master/tuples.py)
 - [Sets](https://github.com/aziz-alqudsy/basic-python/blob/master/sets.py)
 - [Dictionaries](https://github.com/aziz-alqudsy/basic-python/blob/master/dictionaries.py)
+- [Length & Sum](https://github.com/aziz-alqudsy/basic-python/blob/master/length-sum.py)
 
 ### how to run
 ```
