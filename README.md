@@ -4,6 +4,7 @@ basic python courses
 - [Strings](https://github.com/aziz-alqudsy/basic-python/blob/master/strings.py)
 - [Input](https://github.com/aziz-alqudsy/basic-python/blob/master/input.py)
 - [And & Or](https://github.com/aziz-alqudsy/basic-python/blob/master/and-or.py)
+- [List](https://github.com/aziz-alqudsy/basic-python/blob/master/list.py)
 
 ### how to run
 ```
