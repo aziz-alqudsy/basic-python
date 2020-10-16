@@ -38,4 +38,3 @@ number = int(input("choose your number? "))
 validate = number > 0 and number < 10
 
 print("your number is lower than 10? {}".format(validate))
-

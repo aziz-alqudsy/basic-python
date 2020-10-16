@@ -6,6 +6,7 @@ basic python courses
 - [And & Or](https://github.com/aziz-alqudsy/basic-python/blob/master/and-or.py)
 - [Lists](https://github.com/aziz-alqudsy/basic-python/blob/master/lists.py)
 - [Tuples](https://github.com/aziz-alqudsy/basic-python/blob/master/tuples.py)
+- [Sets](https://github.com/aziz-alqudsy/basic-python/blob/master/sets.py)
 
 ### how to run
 ```
