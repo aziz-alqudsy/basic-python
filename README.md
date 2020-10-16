@@ -7,6 +7,7 @@ basic python courses
 - [Lists](https://github.com/aziz-alqudsy/basic-python/blob/master/lists.py)
 - [Tuples](https://github.com/aziz-alqudsy/basic-python/blob/master/tuples.py)
 - [Sets](https://github.com/aziz-alqudsy/basic-python/blob/master/sets.py)
+- [Dictionaries](https://github.com/aziz-alqudsy/basic-python/blob/master/dictionaries.py)
 
 ### how to run
 ```
