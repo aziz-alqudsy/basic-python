@@ -11,6 +11,7 @@ basic python courses
 - [Length & Sum](https://github.com/aziz-alqudsy/basic-python/blob/master/length-sum.py)
 - [Join](https://github.com/aziz-alqudsy/basic-python/blob/master/join.py)
 - [If Statements](https://github.com/aziz-alqudsy/basic-python/blob/master/if.py)
+- [While loops](https://github.com/aziz-alqudsy/basic-python/blob/master/while.py)
 
 ### how to run
 ```
