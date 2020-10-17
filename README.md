@@ -9,6 +9,7 @@ basic python courses
 - [Sets](https://github.com/aziz-alqudsy/basic-python/blob/master/sets.py)
 - [Dictionaries](https://github.com/aziz-alqudsy/basic-python/blob/master/dictionaries.py)
 - [Length & Sum](https://github.com/aziz-alqudsy/basic-python/blob/master/length-sum.py)
+- [Join](https://github.com/aziz-alqudsy/basic-python/blob/master/join.py)
 
 ### how to run
 ```
