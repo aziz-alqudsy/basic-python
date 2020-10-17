@@ -12,6 +12,7 @@ basic python courses
 - [Join](https://github.com/aziz-alqudsy/basic-python/blob/master/join.py)
 - [If Statements](https://github.com/aziz-alqudsy/basic-python/blob/master/if.py)
 - [While loops](https://github.com/aziz-alqudsy/basic-python/blob/master/while.py)
+- [For loops](https://github.com/aziz-alqudsy/basic-python/blob/master/for.py)
 
 ### how to run
 ```
