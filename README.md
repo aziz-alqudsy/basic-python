@@ -13,6 +13,7 @@ basic python courses
 - [If Statements](https://github.com/aziz-alqudsy/basic-python/blob/master/if.py)
 - [While loops](https://github.com/aziz-alqudsy/basic-python/blob/master/while.py)
 - [For loops](https://github.com/aziz-alqudsy/basic-python/blob/master/for.py)
+- [Destructing syntax](https://github.com/aziz-alqudsy/basic-python/blob/master/destructuring_syntax.py)
 
 ### how to run
 ```
