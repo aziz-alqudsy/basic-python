@@ -14,6 +14,7 @@ basic python courses
 - [While loops](https://github.com/aziz-alqudsy/basic-python/blob/master/while.py)
 - [For loops](https://github.com/aziz-alqudsy/basic-python/blob/master/for.py)
 - [Destructing syntax](https://github.com/aziz-alqudsy/basic-python/blob/master/destructuring_syntax.py)
+- [Iterating over dictionary](https://github.com/aziz-alqudsy/basic-python/blob/master/iterating_dictionary.py)
 
 ### how to run
 ```
