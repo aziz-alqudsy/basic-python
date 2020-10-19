@@ -17,6 +17,7 @@ basic python courses
 - [Iterating over dictionary](https://github.com/aziz-alqudsy/basic-python/blob/master/iterating_dictionary.py)
 - [Break & Continue](https://github.com/aziz-alqudsy/basic-python/blob/master/break-continue.py)
 - [Else in loop](https://github.com/aziz-alqudsy/basic-python/blob/master/else-loop.py)
+- [Finding prime numbers with for loop](https://github.com/aziz-alqudsy/basic-python/blob/master/prime_numbers_for.py)
 
 ### how to run
 ```
