@@ -16,6 +16,7 @@ basic python courses
 - [Destructing syntax](https://github.com/aziz-alqudsy/basic-python/blob/master/destructuring_syntax.py)
 - [Iterating over dictionary](https://github.com/aziz-alqudsy/basic-python/blob/master/iterating_dictionary.py)
 - [Break & Continue](https://github.com/aziz-alqudsy/basic-python/blob/master/break-continue.py)
+- [Else in loop](https://github.com/aziz-alqudsy/basic-python/blob/master/else-loop.py)
 
 ### how to run
 ```
