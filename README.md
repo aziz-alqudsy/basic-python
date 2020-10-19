@@ -19,6 +19,7 @@ basic python courses
 - [Else in loop](https://github.com/aziz-alqudsy/basic-python/blob/master/else-loop.py)
 - [Finding prime numbers with for loop](https://github.com/aziz-alqudsy/basic-python/blob/master/prime_numbers_for.py)
 - [List slicing](https://github.com/aziz-alqudsy/basic-python/blob/master/list_slicing.py)
+- [List comprehension](https://github.com/aziz-alqudsy/basic-python/blob/master/list_comprehension.py)
 
 ### how to run
 ```
