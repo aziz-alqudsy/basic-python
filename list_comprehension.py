@@ -34,3 +34,29 @@ temp_friends = [name.lower() for name in friends]
 if friend.lower() in temp_friends:
   print("your friend is {}".format(friend.title()))
 
+
+#### with conditional ###
+
+ages = [20, 21, 24, 27, 28]
+odds = [age for age in ages if age % 2 == 1]
+
+print(odds)
+
+
+students = ["Rolf", "ruth", "charlie", "Jen"]
+families = ["jose", "Bob", "rolf", "charlie", "Michael"]
+
+# set
+students_lower_set = set([student.lower() for student in students])
+family_lower_set = set([family.lower() for family in families])
+
+print(students_lower_set.intersection(family_lower_set))
+
+# list
+students_lower_list = [student.lower() for student in students]
+
+present_friends = [
+  name.title() for name in students_lower_list if name.lower() in families
+]
+
+print(present_friends)
