@@ -10,7 +10,7 @@ basic python courses
 - [Dictionaries](https://github.com/aziz-alqudsy/basic-python/blob/master/dictionaries.py)
 - [Length & Sum](https://github.com/aziz-alqudsy/basic-python/blob/master/length-sum.py)
 - [Join](https://github.com/aziz-alqudsy/basic-python/blob/master/join.py)
-- [If Statements](https://github.com/aziz-alqudsy/basic-python/blob/master/if.py)
+- [If statements](https://github.com/aziz-alqudsy/basic-python/blob/master/if.py)
 - [While loops](https://github.com/aziz-alqudsy/basic-python/blob/master/while.py)
 - [For loops](https://github.com/aziz-alqudsy/basic-python/blob/master/for.py)
 - [Destructing syntax](https://github.com/aziz-alqudsy/basic-python/blob/master/destructuring_syntax.py)
