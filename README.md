@@ -22,6 +22,7 @@ basic python courses
 - [List comprehension](https://github.com/aziz-alqudsy/basic-python/blob/master/list_comprehension.py)
 - [Sets and Dictionaries comprehension](https://github.com/aziz-alqudsy/basic-python/blob/master/sets_dict_comprehension.py)
 - [Zip function](https://github.com/aziz-alqudsy/basic-python/blob/master/zip.py)
+- [Enumerate function](https://github.com/aziz-alqudsy/basic-python/blob/master/enumerate.py)
 
 ### how to run
 ```
