@@ -21,6 +21,7 @@ basic python courses
 - [List slicing](https://github.com/aziz-alqudsy/basic-python/blob/master/list_slicing.py)
 - [List comprehension](https://github.com/aziz-alqudsy/basic-python/blob/master/list_comprehension.py)
 - [Sets and Dictionaries comprehension](https://github.com/aziz-alqudsy/basic-python/blob/master/sets_dict_comprehension.py)
+- [Zip function](https://github.com/aziz-alqudsy/basic-python/blob/master/zip.py)
 
 ### how to run
 ```
